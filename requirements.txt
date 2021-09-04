@@ -1,0 +1,4 @@
+requests
+lz4
+zstandard
+ir_datasets
